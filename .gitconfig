@@ -1,0 +1,23 @@
+[user]
+	name = Paula Norris
+	email = thepandalion@gmail.com
+[core]
+	excludesfile = ~/.gitignore
+	editor = atom -w
+[color]
+	ui = true
+[alias]
+	a = add
+	b = branch
+	co = checkout
+	ci = commit
+	d = diff
+	mg = merge
+	pl = pull
+	pr = pull-request
+	ps = push
+	s = status
+	st = status #For other users
+	w = whatchanged
+[push]
+  default = simple
